@@ -24,7 +24,7 @@ export const WhereToFindUs = () => {
       address: i18n.language === 'es' 
         ? "Av. Apoquindo 2730, piso -2, Las Condes, Santiago" 
         : "Av. Apoquindo 2730, piso -2, Las Condes, Santiago",
-      menuUrl: "https://gour.media/mirai-mut",
+      menuUrl: "https://miraifoodlab.cl/page/menu-mut",
       mapsUrl: "https://maps.app.goo.gl/bpBxyUa9WmR3U5Kq9",
       backgroundImage: miraiMutImage,
       infoUrl: `/${i18n.language}/page/location-and-hours?location=mut`
@@ -34,7 +34,7 @@ export const WhereToFindUs = () => {
       address: i18n.language === 'es'
         ? "Franklin 741, local B20, Santiago Centro, Santiago"
         : "Franklin 741, local B20, Santiago Centro, Santiago",
-      menuUrl: "https://drive.google.com/file/d/1xlA85COECUPE-Mn1CT6e1bwflz1b250w/view",
+      menuUrl: "https://miraifoodlab.cl/page/menu-franklin",
       mapsUrl: "https://maps.app.goo.gl/xUKMGmqvSDAqwB4Q6",
       backgroundImage: miraiFranklinImage,
       infoUrl: `/${i18n.language}/page/location-and-hours?location=franklin`
@@ -44,7 +44,7 @@ export const WhereToFindUs = () => {
       address: i18n.language === 'es'
         ? "Encuentra nuestros productos en las tiendas de nuestros partners"
         : "Find us at our partners' stores",
-      menuUrl: "https://drive.google.com/file/d/1xlA85COECUPE-Mn1CT6e1bwflz1b250w/view",
+      menuUrl: "https://miraifoodlab.cl/page/menu-franklin",
       mapsUrl: `/${i18n.language}/page/partners`,
       backgroundImage: partnersImage,
       infoUrl: `/${i18n.language}/page/location-and-hours?location=partners`

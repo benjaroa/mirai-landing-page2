@@ -9,8 +9,8 @@ import { useTranslation } from "react-i18next";
 import { Transferencia } from "./pages/Transferencia";
 
 const externalUrls: Record<string, string> = {
-  "menu": "https://drive.google.com/file/d/1xlA85COECUPE-Mn1CT6e1bwflz1b250w/view",
-  "menu-franklin": "https://drive.google.com/file/d/1xlA85COECUPE-Mn1CT6e1bwflz1b250w/view",
+  "menu": "https://drive.google.com/file/d/1YN6V30EvlabuAsVo-c0h_-Si35z8e7pa/view",
+  "menu-franklin": "https://drive.google.com/file/d/1YN6V30EvlabuAsVo-c0h_-Si35z8e7pa/view",
   "menu-mut": "https://gour.media/mirai-mut",
   shop: "https://tienda.miraifoodlab.cl",
 };
